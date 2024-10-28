@@ -1,0 +1,19 @@
+{
+  "name": "template_js",
+  "version": "1.0.0",
+  "description": "template_js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjmet/Template_JS.git"
+  },
+  "author": "cjmetc",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/cjmet/Template_JS/issues"
+  },
+  "homepage": "https://github.com/cjmet/Template_JS#readme"
+}
